@@ -2,9 +2,23 @@
 
 Repositório para armazenar as atividades, exercícios e Situações de Aprendizagem (SA) desenvolvidos no curso do SENAI.
 
+---
+
 ## 📌 Conteúdos do Repositório
-- **Lógica de Programação:** Vetores, matrizes, loops e menus interativos.
-- **Estruturas de Dados:** Implementação prática de Pilhas, Filas e algoritmos de busca/remoção.
+
+### 📂 `01_logica_e_cadastros`
+* **Lógica de Programação**: Vetores, matrizes, loops e menus interativos.
+* Estruturas condicionais e cadastros de dados no terminal.
+
+### 📂 `02_estruturas_de_dados`
+* **Estruturas de Dados**: Implementação prática de Pilhas, Filas e algoritmos de busca/remoção.
+* **Algoritmos de Ordenação**: Implementações de Bubble Sort e Merge Sort.
+
+### 📂 `03_recursividade`
+* **Recursividade**: Algoritmos recursivos para cálculo de somatório (1 a N) e contagem regressiva.
+
+---
 
 ## 🛠️ Tecnologia
-- Python 3
+
+* **Python 3**
