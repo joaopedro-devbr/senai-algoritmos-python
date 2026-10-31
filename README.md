@@ -7,18 +7,22 @@ Repositório para armazenar as atividades, exercícios e Situações de Aprendiz
 ## 📌 Conteúdos do Repositório
 
 ### 📂 `01_logica_e_cadastros`
-* **Lógica de Programação**: Vetores, matrizes, loops e menus interativos.
-* Estruturas condicionais e cadastros de dados no terminal.
+- **Lógica de Programação**: Vetores, matrizes, loops e menus interativos.
+- Estruturas condicionais e cadastros de dados no terminal.
 
 ### 📂 `02_estruturas_de_dados`
-* **Estruturas de Dados**: Implementação prática de Pilhas, Filas e algoritmos de busca/remoção.
-* **Algoritmos de Ordenação**: Implementações de Bubble Sort e Merge Sort.
+- **Estruturas de Dados**: Implementação prática de Pilhas, Filas e algoritmos de busca/remoção.
+- **Algoritmos de Ordenação**: Implementações de Bubble Sort e Merge Sort.
 
 ### 📂 `03_recursividade`
-* **Recursividade**: Algoritmos recursivos para cálculo de somatório (1 a N) e contagem regressiva.
+- **Recursividade**: Algoritmos recursivos para cálculo de somatório (1 a N) e contagem regressiva.
+
+### 📂 `04_poo`
+- **Programação Orientada a Objetos**: Conceitos de Herança e Polimorfismo.
+- **Classes e Métodos**: Implementação das classes `Veiculo`, `Carro` e `Moto` com sobrescrita de métodos.
 
 ---
 
 ## 🛠️ Tecnologia
 
-* **Python 3**
+- **Python 3**
