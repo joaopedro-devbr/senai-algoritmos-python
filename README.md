@@ -7,7 +7,7 @@ Repositório para armazenar as atividades, exercícios e Situações de Aprendiz
 ## 📌 Conteúdos do Repositório
 
 ### 📂 `01_logica_e_cadastros`
-- **Lógica de Programação**: Vetores, matrizes, loops e menus interativos.
+- **Lógica de Programação**: Vetores, matrizes, loops e menus interativos. 
 - Estruturas condicionais e cadastros de dados no terminal.
 
 ### 📂 `02_estruturas_de_dados`
