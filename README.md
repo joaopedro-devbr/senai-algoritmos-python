@@ -3,7 +3,7 @@
 Repositório para armazenar as atividades, exercícios e Situações de Aprendizagem (SA) desenvolvidos no curso do SENAI.
 
 ---
-
+ 
 ## 📌 Conteúdos do Repositório
 
 ### 📂 `01_logica_e_cadastros`
